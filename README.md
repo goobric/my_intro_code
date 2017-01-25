@@ -1,2 +1,2 @@
-# my_intro_code
+# My Intro Code :smile:
 1st Lesson on coding in GitHub
